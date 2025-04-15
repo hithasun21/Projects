@@ -45,7 +45,7 @@ nav .nav-links a.selected{
 .firstSection {
     display: flex;
     justify-content: space-around;
-    align-items: cen;
+    align-items: center;
     margin: 80px 0;
 }
 
